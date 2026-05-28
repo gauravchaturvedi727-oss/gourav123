@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/gourav33/?theme=dark&font=Nunito&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/gourav33?theme=dark&font=Nunito&ext=heatmap" />
 
 </div>
 
