@@ -1,37 +1,135 @@
-<h1 align="center">Hi 👋, I'm Gourav Chaturvedi</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="140" />
+
+# Hey there 👋, I'm Gourav Chaturvedi
+
+### 🚀 Full Stack Developer | MERN Stack | Django Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;DSA+Learner;Java+Programmer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Django+Backend+Developer;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+- 💻 Building modern full-stack web applications
+- ⚡ Skilled in **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB & Django**
+- 🌱 Currently improving **DSA & System Design**
+- 🎯 Goal: Become a top Software Engineer
+- 🔥 Love creating clean UI & scalable backend systems
+- ☕ Fun Fact: Debugging > Coding 😭
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gourav-chaturvedi-263239302/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/__gourav1/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:gauravchaturvedi727@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 Tech Stack
 
-- 🌱 Learning DSA & Web Development
-- 💻 Interested in Java, MERN, AIML
-- 🎯 Goal: Become a Software Engineer
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 📊 GitHub Stats
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravchaturvedi727&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 📊 GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravchaturvedi727&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Gourav Chaturvedi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav Chaturvedi&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 GitHub Streak
 
-[LinkedIn](https://www.linkedin.com/in/gourav-chaturvedi-263239302/)
-[Instagram](https://www.instagram.com/__gourav1/)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gauravchaturvedi727&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gauravchaturvedi727&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+### 🚀 Full Stack Projects
+- 🛒 E-Commerce Website
+- 💬 Real-Time Chat App
+- 📚 Learning Management System
+- 🎵 Music Streaming Clone
+- 📊 Admin Dashboard
+
+---
+
+# ⚡ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### Show some ❤️ by starring repositories!
+
+</div>
