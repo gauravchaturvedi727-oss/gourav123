@@ -1,19 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,50:928DAB,100:1F1C2C&height=220&section=header&text=Gourav%20Chaturvedi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Django&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=180&section=header&text=Gourav%20Chaturvedi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1200&color=C9D1D9&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+MongoDB+%7C+Django;Java+%7C+Python+%7C+JavaScript;Passionate+About+Clean+Code+%26+Problem+Solving" />
+<h2>🚀 Full Stack Developer | MERN Stack | Django</h2>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications" />
+
+<br><br>
 
 <p align="center">
-  <a href="https://github.com/gauravchaturvedi727-oss">
-    <img src="https://img.shields.io/github/followers/gauravchaturvedi727-oss?label=Followers&style=flat-square&color=6e40c9"/>
+  <a href="https://github.com/gauravchaturvedi727-oss?tab=followers">
+    <img src="https://img.shields.io/github/followers/gauravchaturvedi727-oss?label=Followers&style=flat-square&color=00F7FF"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=gauravchaturvedi727-oss&label=Profile%20Views&style=flat-square&color=6e40c9"/>
+  <img src="https://komarev.com/ghpvc/?username=gauravchaturvedi727-oss&label=Profile+Views&color=0e75b6&style=flat-square" />
 
   <a href="https://leetcode.com/u/gourav33/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode"/>
